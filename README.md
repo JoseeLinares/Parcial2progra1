@@ -1,4 +1,4 @@
-#(Mi proyecto sin zip esta en la rama Master)
+(Mi proyecto sin zip esta en la rama Master)
 
 # Proyecto2Análisis Proyecto
 
